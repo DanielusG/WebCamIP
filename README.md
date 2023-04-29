@@ -6,6 +6,12 @@ Useful, for example, to create a wireless camera with an old laptop
 
 ___________
 # Installation
+- Clone this repository:
+
+  `git clone https://github.com/DanielusG/WebCamIP.git`
+- Move into the folder:
+
+  `cd WebCamIP`
 - To run the project installs the necessary libraries with the command:
 
   `pip install -r requirements.txt`
